@@ -1,2 +1,4 @@
-# fullcycle-exercises
-Code for Full Cycle Course
+# fullcycle-exercises repository
+
+Developed code for Full Cycle Course
+
